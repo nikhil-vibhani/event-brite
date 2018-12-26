@@ -1,17 +1,12 @@
 {
-  "name": "material-kit-react",
-  "homepage": "https://github.com/creativetimofficial/material-kit-react",
+  "name": "material-kit-react",  
   "authors": [
     "creative-tim"
   ],
-  "description": "A Badass Material-UI Kit based on Material Design",
+  "description": "Eventbrite",
   "main": "dist/index.js",
   "keywords": [
-    "material",
-    "design",
-    "material-ui",
-    "google",
-    "twitter"
+    "event-brite"
   ],
   "license": "Creative TIM License",
   "ignore": [
